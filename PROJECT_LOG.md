@@ -5,6 +5,6 @@
 - [x] Add .gitignore
 - [x] Create assignment package structure
 - [x] Create empty class file stubs
-- [ ] Add README and PROJECT_LOG
-- [ ] First commit
-- [ ] Create GitHub repo and push
+- [x] Add README and PROJECT_LOG
+- [x] First commit
+- [x] Create GitHub repo and push
