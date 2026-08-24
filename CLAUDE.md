@@ -34,5 +34,8 @@ Examples of the granularity expected:
 
 Run the test and show it passing before committing. A class isn't "complete" without a passing test tied to it — "I ran it manually and it looked right" doesn't count.
 
+## Regression prevention
+When a mistake gets corrected, use `#` to have Claude save the lesson as a memory rather than just fixing it and moving on. Periodically fold anything auto-added into the right section above (or delete it if obsolete) instead of letting one-off notes pile up loosely.
+
 ## Don't mark done prematurely
 A class isn't "complete" until it's been run, tested per above, and demonstrably does what `SPEC.md` says.
